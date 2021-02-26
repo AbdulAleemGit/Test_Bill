@@ -1,5 +1,4 @@
-/* Shivving (IE8 is not supported, but at least it won't look as awful)
-/* ========================================================================== */
+
 
 (function (document) {
 	var
